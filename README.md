@@ -66,3 +66,9 @@ platforms:
 ## Credit
 
 This repo is heavily inspired by [@portertech](https://twitter.com/portertech)'s [efforts](https://github.com/portertech/lxc-vm).
+
+
+NOTES:
+
+https://github.com/chef/vagrant-omnibus needs to be installed
+installed using: vagrant plugin install vagrant-omnibus , when on Mac
